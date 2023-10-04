@@ -1,0 +1,27 @@
+@media(max-width:700px) {
+body{ background:rgb(255, 153, 0) ;
+
+}
+}
+
+@media(min-width:700px) {
+    body{ background:rgb(255, 153, 0) ;
+        
+    
+    }
+    }
+
+    .imagem{
+        display: flex;
+        width: 250px;
+        
+        
+    }
+
+    .texto2{
+        text-align: center;
+    }
+
+    .texto1{
+        text-align: center; 
+    }
